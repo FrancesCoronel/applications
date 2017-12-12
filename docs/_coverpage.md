@@ -1,10 +1,10 @@
-<img src="_images/icon.svg" width="50">
+<img src="_images/favicon-192.png" width="100">
 
-# hire-me <small>1.0</small>
+# applications <small>1.0</small>
 
-> A path to getting an awesome tech gig.
+> All the applications I've ever filled out.
 
-[GitHub](https://github.com/fvcproductions/hire-me)
-[Get Started](#hire-me)
+[GitHub](https://github.com/fvcproductions/applications)
+[Get Started](#applications)
 
 ![color](#f0f0f0)
