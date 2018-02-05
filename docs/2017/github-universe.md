@@ -1,7 +1,5 @@
 # GitHub Universe
 
-> 2017
-
 So someone from my company, Accenture, told me through Slack that GitHub Universe was offering scholarships. I figured "Hey! I've been passionately pushing commits to GitHub for 4 years! Why not give it a shot?". So here I am. Hi there. I'm Frances.
 
 I'm a 21-year-old Latina developer with a panache for design. I just started my first full-time job as a software engineer at Accenture's Liquid Studio in Redwood City, CA.

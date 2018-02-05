@@ -1,7 +1,5 @@
 # Knight Scholarship
 
-> 2015
-
 In an ideal future, I hope to ultimately be able to apply my knowledge of programming in the hope of positively benefiting humanity. In the words of the fictional character Peter Weyland, “We [will be able to] create cybernetic individuals who in just a few short years will be completely indistinguishable from us”. I merely wish to speed along that indistinguishableness.
 
 Striving to attain this major goal, I have already tackled various intellectual challenges. At 13, I enrolled in my first college courses through a local community college and throughout high school I enrolled in numerous AP and dual enrollment courses. Now I’ll be able to graduate college with almost 140 credits under my belt at the ripe age of 20. With so much experience in formal academia, I finally took a shift from the traditional when I enrolled in an intensive coding bootcamp known as Fullstack Academy where I was prepared to become a leader in the tech industry and not just a follower.

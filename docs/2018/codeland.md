@@ -1,14 +1,6 @@
 # Codeland
 
-## Email address
-
-fvcproductions@gmail.com
-
-## Full Name
-
-Frances Coronel
-
-## What's your bio? No more than 2-3 sentences, please. *
+## What's your bio? No more than 2-3 sentences, please.
 
 Frances is a developer with a design background who gets a lot of personal satisfaction out of helping the local tech community through her varied skill set.
 
@@ -24,19 +16,19 @@ Her long-term goals involve helping engineer and investing in alternative forms 
 
 https://linkedin.com/in/fvcproductions
 
-## Where are you traveling from? *
+## Where are you traveling from?
 
 Redwood City, CA
 
-## How would you describe your gender? *
+## How would you describe your gender?
 
 Female
 
-## How would you describe your ethnicity? *
+## How would you describe your ethnicity?
 
 Hispanic or Latino
 
-## Background *
+## Background
 
 > Our goal is to have a diverse group of workshop conductors representing different backgrounds, life experiences, skill levels, and perspectives. Tell us a bit about your background and experience, and how it might contribute to the diversity of viewpoints we’re aiming for
 
@@ -54,22 +46,22 @@ Now I became aware of this isolation so long ago and have since developed a stro
 
 By speaking at Codeland, I'm hoping to not only help others solidify their skills in the latest and greatest in web development standards but ultimately, my goal lies in becoming a leader in the field in order to inspire others who grew up looking like me and show them that yes, Latinas can indeed code and lead in the tech industry. In any industry, really.
 
-## Coding Status *
+## Coding Status
 
-- [x] employed as a full-time developer for less than a year
+* [x] employed as a full-time developer for less than a year
 
-## Coding Background *
+## Coding Background
 
-- [x] CS degree
-- [x] collection of resources (blog posts, books, tutorials, workshops, etc.)
-- [x] in-person bootcamp
-- [x] online learning platforms
+* [x] CS degree
+* [x] collection of resources (blog posts, books, tutorials, workshops, etc.)
+* [x] in-person bootcamp
+* [x] online learning platforms
 
-## Topics *
+## Topics
 
-- [x] Accessibility
+* [x] Accessibility
 
-## Workshop Goal *
+## Workshop Goal
 
 > How would you describe your goal for attendees of this workshop? What do you want them to walk away with, and how do you see this adding value to them as coders?
 
@@ -81,7 +73,7 @@ I think PWAs would be a great topic to learn for a developer at any stage of the
 
 It will allow attendees to differentiate themselves for their next career opportunity by showing they can grasp the fundamentals of this new standard in delivering amazing user experiences on the web.
 
-## What will attendees make? *
+## What will attendees make?
 
 > It's important that attendees walk away with something tangible. What will attendees make during your workshop? If they're following an existing tutorial, please include a link to that tutorial. Otherwise, please submit in as much detail as possible what steps attendees will go through to complete this project.
 
@@ -89,13 +81,13 @@ The main goal of the workshop will be to make sure attendees can walk away knowi
 
 There are three key parts that will form the workshop:
 
-1) a high-level overview of PWAs and the benefits they provide
+1. a high-level overview of PWAs and the benefits they provide
 
 I will show screenshots and real-life examples of well-known companies (not just tech companies either) that are implementing PWAs and explore the benefits these companies have reaped by doing so.
 
 I want to make sure the audience understands how seriously top companies are implementing PWAs for their major products and how they themselves can benefit career-wise from being more aware of these newer standards.
 
-2) showing how to get a 100% PWA audit score by testing a pre-existing website on Lighthouse with attendees adding in the necessary components
+2. showing how to get a 100% PWA audit score by testing a pre-existing website on Lighthouse with attendees adding in the necessary components
 
 Lighthouse can be run through Chrome DevTools and provides audits for performance, accessibility, progressive web apps, and more. Each audit has a reference doc explaining why the audit is important, as well as how to fix it.
 
@@ -113,11 +105,11 @@ Each step will come with code samples and plenty of screenshots. As each necessa
 
 By the end of this, each attendee will have a fully deployed PWA through GitHub pages to showcase to friends or even potential employers.
 
-3) reviewing key concepts on what was needed to build a PWA and opportunities attendees can look into for future development and learning
+3. reviewing key concepts on what was needed to build a PWA and opportunities attendees can look into for future development and learning
 
 After going through the process of making an existing website PWA friendly, we will review the concepts we've covered and talk about resources and opportunities attendees can look into to further develop and learn about Google's new PWA standard.
 
-## Introduction to Topic *
+## Introduction to Topic
 
 > It's important for attendees to have some background info on the workshop topic before getting started on a project. What background info do you plan to present? Think of this as a short 5-10 min talk to give people context before diving in. Please provide as much detail as possible.
 
@@ -133,13 +125,13 @@ Although it may seem quite difficult to implement a PWA, the key technical aspec
 
 In this workshop, I'll walk you through the steps on transforming an existing website into a PWA from the bottom up and together, we'll explore the wide array of companies that have already benefited from the many enhancements that PWAs offer.
 
-## What tools/resources will you need? *
+## What tools/resources will you need?
 
 > If there are any tools or resources you and/or the attendees will need to complete this workshop, please list them here (ex: Google Cardboard, iPhone, scratch paper, pencils, whiteboard, etc.)
 
-- Laptop
-- Google Chrome
-- Git
+* Laptop
+* Google Chrome
+* Git
 
 The tools we will be using throughout the workshop include Lighthouse, Hugo & the Hugo Academic Theme, Chrome DevTools, Git, GitHub, GitHub pages, and Homebrew (or Chocolatey if they're on Windows). We will also be using a website to generate app icons.
 
@@ -169,7 +161,7 @@ Git: https://git-scm.com/
 
 Google Chrome: https://www.google.com/chrome/browser/desktop/index.html
 
-## Fit *
+## Fit
 
 > Why are you the right person to conduct this workshop? This is less about expertise (which is not a requirement), and more about the relationship between the topic and the workshop conductor, and finding a good fit. Feel free to include your passion, past experience, previous roles, etc.
 

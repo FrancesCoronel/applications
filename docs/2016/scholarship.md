@@ -1,3 +1,5 @@
+# General Scholarship
+
 At the start of my life, I’d thought I’d be pursuing a career in biology which then refocused to zoology, which then shifted to bioinformatics, which ultimately led to my love of computer science, specifically in AI. I’ve always been a STEM sort of person.
 
 Consequently, I’m currently majoring in Computer Science at Hampton University, but I am more interested specifically in machine learning within the area of artificial intelligence due to it’s multi-dimensionality and untapped potential services for humanity.

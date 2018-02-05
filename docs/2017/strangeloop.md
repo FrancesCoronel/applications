@@ -1,7 +1,5 @@
 # Strange Loop
 
-> 2017
-
 ## What are you hoping to gain by attending Strange Loop?
 
 I've been told that talks at Strange Loop can end up feeling very obscure initially and for the most part, you have no idea if you'll be able to really understand everything that's going on but then by the end of the talk, you actually end up learning something quite meaningful. Since the talks at Strange Loop are incredibly diverse, I know there will be a talk on something I know very little about and another on something I feel I'm becoming an expert in.
