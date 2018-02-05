@@ -2,7 +2,7 @@
 
 # applications <small>1.0</small>
 
-> All the applications I've ever filled out.
+> Keeping track of applications to hackathons, conferences, scholarships, etc.
 
 [GitHub](https://github.com/fvcproductions/applications)
 [Get Started](#applications)
