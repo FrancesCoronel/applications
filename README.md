@@ -4,7 +4,7 @@
 
 [![GitHub Issues](https://img.shields.io/github/issues/fvcproductions/applications.svg?style=flat-square)](https://github.com/fvcproductions/applications/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/fvcproductions/applications.svg?style=flat-square)](https://github.com/fvcproductions/applications/pulls) [![MIT License](https://img.shields.io/github/license/fvcproductions/applications.svg?style=flat-square)](http://badges.mit-license.org) [![Become a Patron!](https://img.shields.io/badge/Patreon-Become%20a%20Patron!-orange.svg?style=flat-square)](https://www.patreon.com/fvcproductions)
 
-All the applications I've ever filled out. 📝️
+Keeping track of applications to hackathons, conferences, scholarships, etc. 📝️
 
 > View this project at [`fvcproductions.github.io/applications`](https://fvcproductions.github.io/applications)
 
