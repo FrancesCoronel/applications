@@ -6,7 +6,7 @@
 
 All the applications I've ever filled out. 📝️
 
-> View this project at [`fvcproductions.github.io/applications`](fvcproductions.github.io/applications)
+> View this project at [`fvcproductions.github.io/applications`](https://fvcproductions.github.io/applications)
 
 ## Installation
 
@@ -29,7 +29,7 @@ docsify serve docs
 > To get started...
 
 1. 🍴 [Fork this repo](https://github.com/fvcproductions/applications#fork-destination-box)
-2. 🔨 View the contributing guidelines at [CONTRIBUTING.md](.github/CONTRIBUTING.md)
+2. 🔨 View the contributing guidelines at [CONTRIBUTING.md](CONTRIBUTING.md)
 3. 👥 Add yourself as a contributor under the credits section
 4. 🔧 [Open a new pull request](https://github.com/fvcproductions/applications/compare)
 5. 🎉 Get your pull request approved - success!
