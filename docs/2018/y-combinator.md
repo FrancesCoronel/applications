@@ -1,12 +1,12 @@
-Why do I want to work at a startup?
+# Y-Combinator
+
+## Why do I want to work at a startup?
 
 I feel like my role at my company right now is very narrow and doesn't allow for a lot of flexibility or multiple "hat wearing", per se. I know I can do so much more than just develop products but even with my current project, I don't go beyond doing basic dev work and tutorials.
 
 My current company is also very large so it's easy to feel more like a "resource" than anything else. Through a startup, I'm hoping I'll be able to actually cultivate a more meaningful relationship with not just the work I'm doing but with my team.
 
-...
-
-What would I like founders to know about me?
+## What would I like founders to know about me?
 
 So the Bureau of Labor reported in 2016 that women made up only 25 percent of computing-related occupations. And when looking at women of color like myself, the numbers become even more ridiculously dismal with Latinas and Black women holding only 1% and 3% of computing jobs, respectively.
 

@@ -8,7 +8,7 @@ Keeping track of applications to hackathons, conferences, scholarships, etc. ðŸ“
 
 > View this project at [`fvcproductions.github.io/applications`](https://fvcproductions.github.io/applications)
 
-![Screenshot](https://i.imgur.com/ZkYjY5l.png)
+![applications](https://i.imgur.com/7UuyI1b.png)
 
 ## Installation
 

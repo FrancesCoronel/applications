@@ -1,6 +1,4 @@
-# Title
-
-Progressive Web Apps 101 - Talk
+# Progressive Web Apps 101 - Talk
 
 ## Elevator Pitch
 

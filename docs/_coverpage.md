@@ -1,6 +1,6 @@
 <img src="_images/favicon-192.png" width="100">
 
-# applications <small>1.0</small>
+# applications
 
 > Keeping track of applications to hackathons, conferences, scholarships, etc.
 

@@ -1,4 +1,6 @@
-> Negative experience, avoid in future
+# Spectra
+
+> Update: Negative experience, avoid in future
 
 ## Why Spectra?
 
