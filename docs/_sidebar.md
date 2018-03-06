@@ -15,6 +15,7 @@
   * [Talk Proposal - PWAs 101](2018/pwas-101-talk)
   * [Talk Proposal - A Zillion PRs](2018/a-zillion-prs)
   * [Workshop Proposal - PWAs 101](2018/pwas-101-workshop)
+  * [Ambassador - TECHNOLOchicas](2018/TECHNOLOchicas)
 * 2017
   * [Conference - AlterConf](2017/alterconf)
   * [Conference - Chrome Dev Summit](2017/chrome-dev-summit)
