@@ -168,6 +168,10 @@ Accenture offered me a full-time offer once again following the internship but a
 
 In December 2016, I took on a role as ambassador for Fullstack Academy, the program I mentioned earlier. It is similar to being a dev evangelist but it doesn’t really require any technical acumen. Just a lot of passion for Fullstack and what it offers.
 
+In May of 2017, I accepted a full-time position with Accenture as a Software Engineer at the Liquid Studio in Redwood City, CA.
+
+I've recently supplemented my work by doing mentorship part-time through Thinkful since last month.
+
 It’s pretty clear that my experience thus far has been mostly with larger corporations. I’m expecting this to change.
 
 ## Describe something you do for your community or the benefit of others. What inspires you to do this?
