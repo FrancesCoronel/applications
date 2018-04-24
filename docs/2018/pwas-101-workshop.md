@@ -155,3 +155,38 @@ Feel free to check out my [LinkedIn](https://linkedin.com/in/fvcproductions), [G
 I try to be as active as possible when it comes to contributions on the web and am very passionate in the open-source philosophy.
 
 Maybe you've even interacted with my work before!
+
+---
+
+## Feedback
+
+> TAPIA 2018 Conference
+>
+> Received April 23, 2018
+>
+> Rejected
+
+![Feedback - TAPIA 2018](https://i.imgur.com/bLawP5r.png)
+
+### Reviewer 1
+
+It is great to see you advocating and sharing knowledge about this new web standard. I also really appreciated the prep work involved to have already pre-created a GitHub repo participants can fork and work on at their own pace.
+
+Not knowing much about what it would take to convert an existing page to a PWA, I was looking for more details on how you expected to complete this lesson in the allotted time. Working in demo code can be notoriously finicky - especially when done on the spot. You're description states that the lecture is available to everyone, but it wasn't clear how your content would cater to allow skill levels - and since this is a learning seminar, I expect you to literally get all levels. You also don't mention that attendees would probably want to bring their laptops or pre-download the repo in advance to save time.
+
+### Reviewer 2
+
+I noticed this session is more of a lecture, I wish it were more interactive, but the audience in attendance may have a wide array of skill levels.
+
+### Reviewer 3
+
+The goal of this proposed workshop is to introduce students to Progressive Web Apps through a 30 minute lecture (on the benefits of and current landscape of PWAs) a 60 minute hand-on activity, and a final overview of learned concepts. By the end of this workshop session, participants should understand how to use Google’s Lighthouse tool to perform an audit on an existing website, interpret the results, and make changes in order to achieve a higher progressive web app rating.
+
+I feel that content of this workshop is timely and appropriate. While Progressive Web Apps have been around for several years, they are finally beginning to gain popularity on not only mobile (Android and now IOS), but also desktop platforms (e.g., Windows app store support). This workshop session should appeal to attendees interested in both web and app development. It should demystify a hot topic and provide participants with the tools necessary to continue exploring this area on their own.
+
+Overall, the organizer makes a strong and valid argument that the concepts (e.g., web accessibility) introduced during this workshop are valuable and beneficial on the job market. The one reservation that I have about this submission is that it may have been valuable for the organizer to provide additional details on their plans for implementation. Here are some questions that come to mind:
+
+1.  Will participants need to install any software on their computers? Will everything including app icons be provided?
+2.  How will code samples and screenshots be shared with participants?
+3.  Since the scope of the interactive activity is focused on improving the “progressive web app” metric, does the content of the lecture touch on the importance other positive web design practices (e.g., accessibility) that are mentioned in the submission?
+4.  Will any A/V equipment be needed to support this presentation (especially the 30 minute lecture)?
