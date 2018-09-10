@@ -1,5 +1,7 @@
 # Grace Hopper Conference
 
+> https://ghc.anitab.org/2018-speakers/)
+
 ## Topic
 
 Software Engineering > Trends and Future of Software Engineering

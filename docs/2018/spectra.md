@@ -2,6 +2,8 @@
 
 > Update: Negative experience, avoid in future
 
+> http://sospectra.com/
+
 ## Why Spectra?
 
 The Bureau of Labor reported in 2016 that women made up only 25 percent of computing-related occupations. And when looking at women of color like myself, the numbers become even more ridiculously dismal with Latinas and Black women holding only 1% and 3% of computing jobs, respectively.
