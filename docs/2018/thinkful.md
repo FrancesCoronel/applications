@@ -1,5 +1,7 @@
 # Thinkful
 
+> https://www.thinkful.com/apply/
+
 ## Why do you want to mentor?
 
 It's actually very selfishly satisfying to me when I volunteer my time towards mentoring others who are also interested in the tech field which is something I've been doing since 2015.

@@ -1,5 +1,7 @@
 # TECHNOLOchicas
 
+> https://technolochicas.org/
+
 ## Education
 
 I have a Master's in Computer Science from Cornell Tech and a Bachelor's in Computer Science from Hampton University.

@@ -1,4 +1,4 @@
-## CORD
+## CORO
 
 ### The Women in Leadership program will support the leadership development of women across the Bay Area, establish a pipeline for professional advancement, and create a cross-sector network of women who support each other’s career growth. How do you see yourself benefitting from this experience?
 
