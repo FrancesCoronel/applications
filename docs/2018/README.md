@@ -1,13 +1,5 @@
 # 2018
 
-## Upcoming
-
-- [Program - CORO](2018/CORO)
-
-## Applied
-
-- [Scholarship - JAMstack Conference](2018/jamstack.md) - September 8th
-
 ## Work In Progress
 
 - [Talk - A Zillion PRs](2018/a-zillion-prs)
@@ -15,6 +7,10 @@
 
 ## Past
 
+- [Scholarship - JAMstack Conference](2018/jamstack.md)
+- [Program - CORO](2018/CORO)
+- [Scholarship - Signal](2018/signal) - August 7
+- [Mentor - Openmind](2018/mentor/openminded)
 - [Ambassador - TECHNOLOchicas](2018/TECHNOLOchicas) - March 5
 - [Job Seeker - A-List](https://alist.co) - January 29
 - [Mentor - Thinkful](2018/mentor/thinkful) - February 25
@@ -30,10 +26,12 @@
 
 ## Did Not Hear Back
 
-- [Mentor - Openmind](2018/mentor/openminded)
 - [Speaker - The Lead Dev](2018/the-lead-dev)
 - [Scholarship - Nordic.js](2018/nordic-js)
-- [Scholarship - Signal](2018/signal) - August 7
+
+## Accepted But Did Not Attend
+
+- [Scholarship - Chrome Dev Summit](2018/chrome-dev-summit.md)
 
 ## Rejected
 
