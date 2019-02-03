@@ -1,5 +1,6 @@
 - [Home 🏠](/README)
 - [Bio](bio)
+- [2019](2019/README)
 - [2018](2018/README)
 - [2017](2017/README)
 - [2016](2016/README)

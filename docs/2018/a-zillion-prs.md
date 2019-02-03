@@ -1,3 +1,0 @@
-# A Zillion Pull Requests - What I Learned From Maintaining A Popular GitHub Repo
-
-When Shannon took a chance and first posted her repo on GitHub during Hacktoberfest, she wasn't expecting it to turn into a real open source project. But that step lead to her creating and managing her first open source project, complete with pull requests and contributors. Shannon shares the mistakes she's made and lessons she's learned, and how she figure out how to make her project more accessible to contributors of all levels. If you've always been nervous about getting involved in open source, you'll walk away inspired and ready to share their projects with the open source community.
