@@ -1,10 +1,5 @@
 # 2018
 
-## Work In Progress
-
-- [Talk - A Zillion PRs](2018/a-zillion-prs)
-- [Talk - Lighthouse 101](2018/lighthouse-101)
-
 ## Past
 
 - [Scholarship - JAMstack Conference](2018/jamstack.md)
