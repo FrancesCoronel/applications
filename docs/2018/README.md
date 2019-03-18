@@ -9,7 +9,7 @@
 - [Ambassador - TECHNOLOchicas](2018/TECHNOLOchicas) - March 5
 - [Job Seeker - A-List](https://alist.co) - January 29
 - [Mentor - Thinkful](2018/mentor/thinkful) - February 25
-- [Program - CORO](2018/CORD)
+- [Program - CORO](2018/coro)
 - [Scholarship - Bradfield School of CS](2018/bradfield-cs)
 - [Scholarship - TSConf](2018/tsconf) - March 12
 - [Scholarship - Women Who Code](2018/wwcode)
@@ -18,6 +18,7 @@
 - [Talk - PWAs 101](2018/pwas-101-talk)
 - [Talk - TypeScript 101](2018/typescript-101)
 - [Workshop - PWAs 101](2018/pwas-101-workshop)
+- JSConf Hawaii
 
 ## Did Not Hear Back
 
