@@ -6,7 +6,7 @@
 
 Keeping track of applications to hackathons, conferences, scholarships, etc. 📝️
 
-> View this project at [`fvcproductions.github.io/applications`](https://fvcproductions.github.io/applications)
+> View this project at [`applications.fvcproductions.com`](https://applications.fvcproductions.com/)
 
 ![applications](https://i.imgur.com/7UuyI1b.png)
 
