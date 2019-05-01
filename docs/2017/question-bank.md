@@ -2,28 +2,28 @@
 
 <!-- TOC depthFrom:2 -->
 
-* [Tell us about a time you built something awesome in code. How did you choose it? Why did you enjoy it?](#tell-us-about-a-time-you-built-something-awesome-in-code-how-did-you-choose-it-why-did-you-enjoy-it)
-  * [Long Version](#long-version)
-  * [Short Version](#short-version)
-* [Is there a particular technology or industry you're currently interested in? How come? Where do you see it heading in the future?](#is-there-a-particular-technology-or-industry-youre-currently-interested-in-how-come-where-do-you-see-it-heading-in-the-future)
-* [Name some of your favorite projects.](#name-some-of-your-favorite-projects)
-  * [Product Studio - NYTimes](#product-studio---nytimes)
-  * [Jeopardy Template](#jeopardy-template)
-  * [Alienware Desktop](#alienware-desktop)
-  * [MapMe Coding Bootcamps](#mapme-coding-bootcamps)
-* [When you're not coding, what do you like to do?](#when-youre-not-coding-what-do-you-like-to-do)
-* [What impact do you want to have on the world and why (500 words)?](#what-impact-do-you-want-to-have-on-the-world-and-why-500-words)
-* [What are your key interests?](#what-are-your-key-interests)
-* [Where are your preferred locations to work?](#where-are-your-preferred-locations-to-work)
-* [When did you first get interested in learning to code? Why?](#when-did-you-first-get-interested-in-learning-to-code-why)
-* [What are the classes in computer science you've taken so far?](#what-are-the-classes-in-computer-science-youve-taken-so-far)
-* [In your past roles, what technologies did you work with?](#in-your-past-roles-what-technologies-did-you-work-with)
-* [Describe something you do for your community or the benefit of others. What inspires you to do this?](#describe-something-you-do-for-your-community-or-the-benefit-of-others-what-inspires-you-to-do-this)
-* [Provide some links to apps or websites you've created.](#provide-some-links-to-apps-or-websites-youve-created)
-* [Provide a link to a piece of code that you wrote that you are particularly proud of.](#provide-a-link-to-a-piece-of-code-that-you-wrote-that-you-are-particularly-proud-of)
-* [What are your long-term plans?](#what-are-your-long-term-plans)
-* [Tell us about a challenging project that you worked on or a challenge in your life that you have overcome.](#tell-us-about-a-challenging-project-that-you-worked-on-or-a-challenge-in-your-life-that-you-have-overcome)
-* [Anything else you would like to share?](#anything-else-you-would-like-to-share)
+- [Tell us about a time you built something awesome in code. How did you choose it? Why did you enjoy it?](#tell-us-about-a-time-you-built-something-awesome-in-code-how-did-you-choose-it-why-did-you-enjoy-it)
+	- [Long Version](#long-version)
+	- [Short Version](#short-version)
+- [Is there a particular technology or industry you're currently interested in? How come? Where do you see it heading in the future?](#is-there-a-particular-technology-or-industry-youre-currently-interested-in-how-come-where-do-you-see-it-heading-in-the-future)
+- [Name some of your favorite projects.](#name-some-of-your-favorite-projects)
+	- [Product Studio - NYTimes](#product-studio---nytimes)
+	- [Jeopardy Template](#jeopardy-template)
+	- [Alienware Desktop](#alienware-desktop)
+	- [MapMe Coding Bootcamps](#mapme-coding-bootcamps)
+- [When you're not coding, what do you like to do?](#when-youre-not-coding-what-do-you-like-to-do)
+- [What impact do you want to have on the world and why (500 words)?](#what-impact-do-you-want-to-have-on-the-world-and-why-500-words)
+- [What are your key interests?](#what-are-your-key-interests)
+- [Where are your preferred locations to work?](#where-are-your-preferred-locations-to-work)
+- [When did you first get interested in learning to code? Why?](#when-did-you-first-get-interested-in-learning-to-code-why)
+- [What are the classes in computer science you've taken so far?](#what-are-the-classes-in-computer-science-youve-taken-so-far)
+- [In your past roles, what technologies did you work with?](#in-your-past-roles-what-technologies-did-you-work-with)
+- [Describe something you do for your community or the benefit of others. What inspires you to do this?](#describe-something-you-do-for-your-community-or-the-benefit-of-others-what-inspires-you-to-do-this)
+- [Provide some links to apps or websites you've created.](#provide-some-links-to-apps-or-websites-youve-created)
+- [Provide a link to a piece of code that you wrote that you are particularly proud of.](#provide-a-link-to-a-piece-of-code-that-you-wrote-that-you-are-particularly-proud-of)
+- [What are your long-term plans?](#what-are-your-long-term-plans)
+- [Tell us about a challenging project that you worked on or a challenge in your life that you have overcome.](#tell-us-about-a-challenging-project-that-you-worked-on-or-a-challenge-in-your-life-that-you-have-overcome)
+- [Anything else you would like to share?](#anything-else-you-would-like-to-share)
 
 <!-- /TOC -->
 
@@ -99,42 +99,42 @@ I am one of the few Latinas I know studying computer science (usually the only o
 
 ## What are your key interests?
 
-* Reading (Goodreads)
-* Customizations (Creative Market)
-* Dogs (Rover)
-* Traveling (TripAdvisor)
-* Online dating (OkCupid)
-* Movies (Fandango)
-* Amusement Parks (Disney)
-* Robots (Mayfield Robotics)
-* EduTech (Duolingo)
-* Coding Bootcamp (Fullstack Academy)
+- Reading (Goodreads)
+- Customizations (Creative Market)
+- Dogs (Rover)
+- Traveling (TripAdvisor)
+- Online dating (OkCupid)
+- Movies (Fandango)
+- Amusement Parks (Disney)
+- Robots (Mayfield Robotics)
+- EduTech (Duolingo)
+- Coding Bootcamp (Fullstack Academy)
 
 ## Where are your preferred locations to work?
 
-* California
-  * Redwood City, CA
-  * Irvine, CA
-  * San Diego, CA
-  * San Jose, CA
-  * Santa Clara, CA
-  * Mountain View, CA
-  * Sunnyvale, CA
-  * Palo Alto, CA
-  * Chula Vista, CA
-* Maryland
-  * Rockville, MD
-* Massachusetts
-  * Newton, MA
-  * Boston, MA
-* Hawaii
-  * Honolulu, Hawaii
-* Washington
-  * Seattle, Washington
-* Florida
-  * Sarasota, FL
-  * Orlando, FL
-  * Miami, FL
+- California
+  - Redwood City, CA
+  - Irvine, CA
+  - San Diego, CA
+  - San Jose, CA
+  - Santa Clara, CA
+  - Mountain View, CA
+  - Sunnyvale, CA
+  - Palo Alto, CA
+  - Chula Vista, CA
+- Maryland
+  - Rockville, MD
+- Massachusetts
+  - Newton, MA
+  - Boston, MA
+- Hawaii
+  - Honolulu, Hawaii
+- Washington
+  - Seattle, Washington
+- Florida
+  - Sarasota, FL
+  - Orlando, FL
+  - Miami, FL
 
 ## When did you first get interested in learning to code? Why?
 
@@ -180,23 +180,23 @@ I mentor, freelance, and speak with organizations that promote diversity in tech
 
 Some recent examples of this are:
 
-* acted as a graduate mentor for WiTNY (Women in Technology & Entrepreneurship in New York) through Cornell Tech
-* freelance blogging for AlterConf which is a traveling conference promoting diversity in tech
-* spoke at a Fullstack Academy alumni panel which is a coding bootcamp that helped created Grace Hopper Academy - one of the few all female coding bootcamps that doesn't charge any tuition up front
+- acted as a graduate mentor for WiTNY (Women in Technology & Entrepreneurship in New York) through Cornell Tech
+- freelance blogging for AlterConf which is a traveling conference promoting diversity in tech
+- spoke at a Fullstack Academy alumni panel which is a coding bootcamp that helped created Grace Hopper Academy - one of the few all female coding bootcamps that doesn't charge any tuition up front
 
 I am one of the few Latinas I know studying computer science (usually the only one in the room) and because I realized the severity of my isolation so long ago, I've had a strong desire from the beginning to inspire those who want to come into the tech field but may not feel like they'll fit in. Ultimately, the impact I want to have on the world lies in becoming a leader in the tech industry in order to inspire others who grew up looking like me and show them that yes, Latinas can indeed code and lead within the tech industry. In any industry, really.
 
 ## Provide some links to apps or websites you've created.
 
-* https://fvcproductions.github.io/hire-me
-* https://fvcproductions.github.io/mashup
-* https://fvcproductions.github.io/anagram
-* https://fvcproductions.github.io/cornell-tech-logos
-* https://fvcproductions.com/portfolio/robopocalypse
-* https://fvcproductions.com/portfolio/life-at-home
-* https://fvcproductions.com/portfolio/hiredot
-* https://fvcproductions.com/portfolio/monarchs-hack-the-campus
-* https://fvcproductions.com/portfolio/product-studio-sprint-2
+- https://fvcproductions.github.io/hire-me
+- https://fvcproductions.github.io/mashup
+- https://fvcproductions.github.io/anagram
+- https://fvcproductions.github.io/cornell-tech-logos
+- https://fvcproductions.com/portfolio/robopocalypse
+- https://fvcproductions.com/portfolio/life-at-home
+- https://fvcproductions.com/portfolio/hiredot
+- https://fvcproductions.com/portfolio/monarchs-hack-the-campus
+- https://fvcproductions.com/portfolio/product-studio-sprint-2
 
 ## Provide a link to a piece of code that you wrote that you are particularly proud of.
 
