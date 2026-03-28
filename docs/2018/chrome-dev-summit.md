@@ -8,7 +8,7 @@ Some folks would get bothered by the constant change but it's honestly what I lo
 
 Also, just in general, I'm a HUGE fan of PWAs - I've given various talks on how to implement them at conferences & Meetups:
 
-https://www.fvcproductions.com/2018/05/18/progressive-web-apps-101/
+https://www.francescoronel.com/2018/05/18/progressive-web-apps-101/
 
 ## Given your personal background, describe an experience that illustrates the importance of diversity to you. \*
 
@@ -34,7 +34,7 @@ My team is basically the Moby Dicks of the engineering org at Slack as we try to
 
 I also work as an open source developer for Techqueria which is one of the largest groups for Latinx in tech. I feel as though working on open source projects that I'm personally connected to really allows me to stay on top of my game while enjoying myself too.
 
-You can find my active GitHub here: https://github.com/fvcproductions.
+You can find my active GitHub here: https://github.com/FrancesCoronel.
 
 ## What are your biggest pain points on the web today? What are you most excited about for the future of the web?
 

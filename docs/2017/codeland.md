@@ -15,7 +15,7 @@ What’s your full name? *
 Frances Coronel
 What's your email address? *
 
-hello@fvcproductions.com
+hello@francescoronel.com
 How much programming experience do you have? It’s ok if you have none or are just getting started :) *
 
 I've had a part-time gig as a front-end developer and a full-time summer internship as a wearables developer. I would say I have 3 years of solid dev experience.
@@ -30,7 +30,7 @@ What we can offer in scholarships will depend on need and availability. In order
 I'll be in NYC so no extra support necessary!
 Community is very important to us. How have you been a supportive community member in your life (it can be code-related or outside of tech)? Please provide details. *
 
-I've spoken at conferences that promote diversity in tech. I've personally mentored folks trying to get into coding bootcamps, which have been proven to be a key way for underrepresented folks to get into the tech industry. You're welcome to look more into this at http://fvcproductions.com/services.
+I've spoken at conferences that promote diversity in tech. I've personally mentored folks trying to get into coding bootcamps, which have been proven to be a key way for underrepresented folks to get into the tech industry. You're welcome to look more into this at http://francescoronel.com/services.
 Have you had any involvement in the CodeNewbie community thus far? If so, please describe that involvement. (ex: participated in the Twitter chats, helped people on our Slack) *
 
 I've listened to a few podcasts and have joined the Meetup group.

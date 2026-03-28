@@ -28,8 +28,8 @@ You will not regret it.
 
 Here are some relevant links:
 
-- Website: http://fvcproductions.com
-- Portfolio: http://fvcproductions.com/portfolio
+- Website: http://francescoronel.com
+- Portfolio: http://francescoronel.com/portfolio
 - LinkedIn: http://linkedin.com/in/fvcproductions
 - Behance: http://behance.net/fvcproductions
 - Codeivate: https://www.codeivate.com/users/fvcproductions

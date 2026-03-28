@@ -18,9 +18,9 @@ As such, I'm the open source lead with Techqueria, one of the largest Latinx in 
 
 You can see a full laundry list of organizations I've been involved with on my website:
 
-https://www.fvcproductions.com/volunteering/
+https://www.francescoronel.com/volunteering/
 
-https://www.fvcproductions.com/mentoring/
+https://www.francescoronel.com/mentoring/
 
 ## Is the Speaker willing to provide a free gift to attendees or raffle? If so, what?
 
@@ -36,9 +36,9 @@ https://www.linkedin.com/in/fvcproductions/
 
 https://twitter.com/fvcproductions
 
-https://www.fvcproductions.com/subscribe/
+https://www.francescoronel.com/subscribe/
 
-https://www.fvcproductions.com/links/
+https://www.francescoronel.com/links/
 
 ## Why should we choose this Speaker for Wonder Women Tech 2018-2019?
 

@@ -20,7 +20,7 @@ With SIGNAL, I'm hoping to not only learn the latest and greatest in web develop
 
 ## Please share any involvement you have in tech communities?
 
-I'm an open source developer with Techqueria, one of the largest Latinx in tech organizations, and I speak regularly at tech events/Meetups locally and across the US (fvcproductions.com/speaking).
+I'm an open source developer with Techqueria, one of the largest Latinx in tech organizations, and I speak regularly at tech events/Meetups locally and across the US (francescoronel.com/speaking).
 
 I used to be a technical mentor with Thinkful, a well known online coding bootcamp.
 
@@ -30,7 +30,7 @@ You can see a full laundry list of organizations I've been involved with on my L
 
 ## What's a tech project that you've worked on that you're proud of?
 
-Hopefully this doesn't come across as arrogant but I really love working with my personal website (https://www.fvcproductions.com).
+Hopefully this doesn't come across as arrogant but I really love working with my personal website (https://www.francescoronel.com).
 
 Most developers find it difficult to maintain all the activity they get involved with in one centralized place like the personal portfolio/website but for me, it's basically addicting and I actually de-stress from working on it.
 

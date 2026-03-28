@@ -86,7 +86,7 @@ https://techqueria.org
 
 Since 2015, I've also had the opportunity to speak at over 40 different events on topics such as Progressive Web Apps, TypeScript, Open Source, Web Design, my career path in tech and being a Latina software engineer.
 
-https://www.fvcproductions.com/speaking
+https://www.francescoronel.com/speaking
 
 ## How many years of people management experience do you have?
 

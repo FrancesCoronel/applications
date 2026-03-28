@@ -39,7 +39,7 @@ My team interpreted being able to solve this challenge by creating a feature tha
 
 Ultimately, the reason it's one my favorite project thus far and why I also feel it is a time where I felt I was building something awesome in code is because all three of us had recognized how important being able to increase the diversity of the user base for the New York Times was. And it’s not just because all of us came from underrepresented backgrounds in tech that we recognized this but because diversity is important for engagement, collaboration, monetization, and the overall community standards of the New York Times. Since I could relate to my team members better, I wasn't afraid of brainstorming any idea, regardless of how ludicrous.
 
-You can learn more about this venture here: [_https://fvcproductions.com/portfolio/product-studio-final-sprint/_](https://fvcproductions.com/portfolio/product-studio-final-sprint/).
+You can learn more about this venture here: [_https://francescoronel.com/portfolio/product-studio-final-sprint/_](https://francescoronel.com/portfolio/product-studio-final-sprint/).
 
 ### Short Version
 
@@ -59,13 +59,13 @@ So all in all, I believe coding bootcamps in the future will either find themsel
 
 Every fall, leading startups, companies, and organizations in NYC pose business challenges to Cornell Tech. In Product Studio, teams develop and present new products, services, and strategies that respond to those challenges. My team responded to The New York Times Community challenge: How might we create a safe place for people of all backgrounds to discuss important local, national, and global issues?
 
-To address this problem, we created Q&A, a platform that solicits the opinion of readers based off of both the text analysis of an article and their personal reading history. Feel free to view the final result here: "https://fvcproductions.com/portfolio/product-studio-final-sprint/".
+To address this problem, we created Q&A, a platform that solicits the opinion of readers based off of both the text analysis of an article and their personal reading history. Feel free to view the final result here: "https://francescoronel.com/portfolio/product-studio-final-sprint/".
 
 This is a project I'm especially proud of because I was able to have a lot of decision control over the end product as the lead developer and designer on the team. I also felt I could actually relate to my product since it was trying to solve the issue of diversifying communities, which is something I personally struggle with myself.
 
 ### Jeopardy Template
 
-> https://fvcproductions.com/portfolio/jeopardy-template/
+> https://francescoronel.com/portfolio/jeopardy-template/
 
 My mom is a Spanish high school teacher and she was frustrated trying to create a Jeopardy template using PPT. I told her I would make her one and as a result I created a version for not just Google Slides (which is much nicer than PPT in my opinion) but also a version for Keynote. I published it last year and so far it’s gotten almost 20K hits across the web just based off my Behance, Speaker Deck, and bit.ly link stats I made for them. Over 200 people have reached out via Google Slides attempting to get edit access (I have the emails to prove this). It got to the point where I had to set up an automatic reply for anyone trying to do this in order to show them how to make a copy that they could edit themselves on Google Slides.
 
@@ -77,7 +77,7 @@ This is a customization I made for my Mac two years ago back when it was easier 
 
 ### MapMe Coding Bootcamps
 
-> https://fvcproductions.com/portfolio/mapme-coding-bootcamps/
+> https://francescoronel.com/portfolio/mapme-coding-bootcamps/
 
 I don't know if this would necessarily be deemed technical but I did help create a map of all the coding bootcamps out there because I didn't see any existing solution in place. I myself have attended It's gotten over 16K hits on Google Maps alone but I recently created a crowd-sourced version as well. Either way, both of these are the two top results on Google for the search query "map of coding bootcamps".
 
@@ -188,19 +188,19 @@ I am one of the few Latinas I know studying computer science (usually the only o
 
 ## Provide some links to apps or websites you've created.
 
-- https://fvcproductions.github.io/hire-me
-- https://fvcproductions.github.io/mashup
-- https://fvcproductions.github.io/anagram
-- https://fvcproductions.github.io/cornell-tech-logos
-- https://fvcproductions.com/portfolio/robopocalypse
-- https://fvcproductions.com/portfolio/life-at-home
-- https://fvcproductions.com/portfolio/hiredot
-- https://fvcproductions.com/portfolio/monarchs-hack-the-campus
-- https://fvcproductions.com/portfolio/product-studio-sprint-2
+- https://francescoronel.github.io/hire-me
+- https://francescoronel.github.io/mashup
+- https://francescoronel.github.io/anagram
+- https://francescoronel.github.io/cornell-tech-logos
+- https://francescoronel.com/portfolio/robopocalypse
+- https://francescoronel.com/portfolio/life-at-home
+- https://francescoronel.com/portfolio/hiredot
+- https://francescoronel.com/portfolio/monarchs-hack-the-campus
+- https://francescoronel.com/portfolio/product-studio-sprint-2
 
 ## Provide a link to a piece of code that you wrote that you are particularly proud of.
 
-https://fvcproductions.github.io/anagram
+https://francescoronel.github.io/anagram
 
 Anagram Checker that is Duolingo branded.
 

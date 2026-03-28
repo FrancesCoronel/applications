@@ -4,7 +4,7 @@
 
 > Keeping track of applications to hackathons, conferences, scholarships, etc.
 
-[GitHub](https://github.com/fvcproductions/applications)
+[GitHub](https://github.com/FrancesCoronel/applications)
 [Get Started](#applications)
 
 ![color](#f0f0f0)

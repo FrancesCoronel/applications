@@ -69,4 +69,4 @@ I have received very good feedback on my work done with Sketch and Keynote for r
 
 While I have no formal design education, I've given a talk on web design several times at tech events and have taken an online course in web design through Designlab.
 
-I would encourage you to view some of this work on my Speaker Deck at http://speakerdeck.com/fvcproductions or through my portfolio at http://fvcproductions.com/portfolio.
+I would encourage you to view some of this work on my Speaker Deck at http://speakerdeck.com/fvcproductions or through my portfolio at http://francescoronel.com/portfolio.

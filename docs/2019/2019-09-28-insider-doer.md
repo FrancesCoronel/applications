@@ -16,6 +16,6 @@ Frances is also the host of Tech Queens, the first podcast to focus exclusively 
 
 https://techqueria.org/press
 
-https://fvcproductions.com/press
+https://francescoronel.com/press
 
 https://abc7news.com/community-events/abc7-celebrates-latino-heritage-month-2019/5538011/

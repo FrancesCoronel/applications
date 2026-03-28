@@ -74,4 +74,4 @@ Strange Loop 2017 - https://www.slideshare.net/FVCproductions/typescript-101-806
 
 I love open-source!
 
-https://github.com/fvcproductions
+https://github.com/FrancesCoronel

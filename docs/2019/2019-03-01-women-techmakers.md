@@ -6,7 +6,7 @@
 
 A concrete example of this topic being explored is at the Latinx in Tech conference were there was a panel on "Intersectional Identity & Code Switching".
 
-https://www.fvcproductions.com/2018/11/01/latinx-in-tech-summit/
+https://www.francescoronel.com/2018/11/01/latinx-in-tech-summit/
 
 We know that there are many intersections to one's identity, and would love to get your perspective on how intersectionality impacts women in tech: 1) What does successfully promoting intersectionality in tech look like? 2) How do you recognize, promote, or celebrate intersectionality in tech? \*
 

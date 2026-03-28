@@ -10,4 +10,4 @@ I recently attended TreeHacks, a hackathon at Stanford and because they tried so
 
 I will also note that I'm making it my personal goal this year to attend more tech conferences since I realized that every time I've attended one, it's been ridiculously beneficial to my personal growth.
 
-You can read more about that here: http://fvcproductions.com/2016/01/04/new-epoch-new-exploits.
+You can read more about that here: http://francescoronel.com/2016/01/04/new-epoch-new-exploits.

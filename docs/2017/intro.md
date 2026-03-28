@@ -36,7 +36,7 @@ I also freelance with my last gig being a blogger for AlterConf which I got paid
 
 I like to dabble with things that ought to be dabbled with.
 
-fvcproductions.com
+francescoronel.com
 
 Frances is a developer with a design background who gets a lot of personal satisfaction out of helping the local tech community through her varied skill set. She is currently pursuing a Masters in Computer Science at Cornell Tech and hopes to kick butt in the tech scene as a product guru upon graduating.
 
@@ -76,4 +76,4 @@ My past work experience includes first working part-time as a front-end develope
 
 I am one of the few Latinas I know studying computer science (the only one in my program at Cornell Tech right now even if I'm not mistaken) and because I realized my isolation so long ago, I've had a strong desire from the beginning to want to inspire those who want to come into the tech field but may not feel like they'll fit in. Ultimately, my goal lies in becoming a leader in the field in other to inspire others who grew up looking like me and show them that yes, Latinas can indeed code and lead within the tech industry. In any industry, really.
 
-Digital assets can be found at http://github.com/fvcproductions/fvcproductions or at http://fvcproductions.com.
+Digital assets can be found at http://github.com/FrancesCoronel/fvcproductions or at http://francescoronel.com.

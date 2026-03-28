@@ -6,7 +6,7 @@ As a budding front-end web developer, WWW directly addresses the tools and topic
 
 As a graduating CS major, I'm just about to embark on my new career for web development/design. Going to such a tight niche conference like the WWW would really set on my right path to a good start in my career.
 
-I will also note that I'm making it my personal goal this year to attend more tech conferences since I realized that every time I've attended one, it's been ridiculously beneficial to my personal growth. You can read more about that here: http://fvcproductions.com/2016/01/04/new-epoch-new-exploits/
+I will also note that I'm making it my personal goal this year to attend more tech conferences since I realized that every time I've attended one, it's been ridiculously beneficial to my personal growth. You can read more about that here: http://francescoronel.com/2016/01/04/new-epoch-new-exploits/
 
 For my story of diversity, we'll have to go back in time.
 

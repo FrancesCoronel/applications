@@ -8,7 +8,7 @@ Well, as a budding software engineer focused on UI development, Nordic.js direct
 
 Some folks would get bothered by the constant change but it's honestly what I love most about the work I do and I actually think it's great how no one can ever really claim expertise for too long a time. Through the power of JavaScript, I want to be able to explore how I can make my web apps both in my workplace and through my open-source contributions scale even better. I believe such a feat would really set on my right path to a great start to what I hope will be a long career in the tech industry.
 
-Also, just in general, I'm a HUGE fan of JavaScript - I've given various talks related to JavaScript and its super set TypeScript at conferences, Meetups & hackathons: https://www.fvcproductions.com/speaking/
+Also, just in general, I'm a HUGE fan of JavaScript - I've given various talks related to JavaScript and its super set TypeScript at conferences, Meetups & hackathons: https://www.francescoronel.com/speaking/
 
 ...
 

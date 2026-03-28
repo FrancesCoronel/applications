@@ -186,11 +186,11 @@ I try to be as active as possible when it comes to contributions on the web and 
 Maybe you've even interacted with my work before!
 
 https://www.linkedin.com/in/fvcproductions
-https://github.com/fvcproductions
+https://github.com/FrancesCoronel
 https://www.behance.net/fvcproductions
 https://www.behance.net/fvcproductions
 https://www.slideshare.net/FVCproductions
-https://fvcproductions.com/
+https://francescoronel.com/
 
 ## Travel Needs
 

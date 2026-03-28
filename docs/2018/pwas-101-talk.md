@@ -122,11 +122,11 @@ Pictures can be found on my website but here is a presentation I used from [Stra
 
 > Link to your Github account, if any?
 
-I love open-source! See [https://github.com/fvcproductions](https://github.com/fvcproductions).
+I love open-source! See [https://github.com/FrancesCoronel](https://github.com/FrancesCoronel).
 
 > Any other links?
 
-Feel free to check out my [LinkedIn](https://linkedin.com/in/fvcproductions), [GitHub](https://github.com/fvcproductions), [Behance](https://behance.net/fvcproductions), [SlideShare](https://slideshare.net/FVCproductions) and [personal website](https://fvcproductions.com).
+Feel free to check out my [LinkedIn](https://linkedin.com/in/fvcproductions), [GitHub](https://github.com/FrancesCoronel), [Behance](https://behance.net/fvcproductions), [SlideShare](https://slideshare.net/FVCproductions) and [personal website](https://francescoronel.com).
 
 I try to be as active as possible when it comes to contributions on the web and am very passionate in the open-source philosophy.
 
